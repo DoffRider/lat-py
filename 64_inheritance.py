@@ -1,3 +1,6 @@
+from _typeshed import Self
+
+
 class PestaMeriah :
     x = 0
     nama = ""
